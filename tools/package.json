@@ -1,0 +1,10 @@
+{
+    "name": "guess",
+    "version": "0.0.1",
+    "private": true,
+    "dependencies": {
+        "web3": "0.20.0",
+        "ethereumjs-tx": "latest",
+        "ethereum-input-data-decoder": "latest"
+    }
+}
