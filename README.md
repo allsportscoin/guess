@@ -1,5 +1,14 @@
+# Guess
 
-### INSTALL:
+A decentralized quiz platform.
+
+## Requirement of tools
+
+- node
+- npm
+
+## INSTALL:
+### install tools
 ```bash
 
 1、git clone https://github.com/allsportscoin/guess.git
@@ -9,12 +18,26 @@
 3、npm install
 ```
 
-### Get guess info from blockchain
+## Tutorial
+
+### layout
+directory layout:
+
+```
++ src 
+  | - myguess.sol // The source code of contract
++ tools
+  | - contract_guess.js
+  | - getGuessInfo.js  //tools for get detail inforamtion of guess
+  | - package.json  
+```
+## HOW
+### How to use the tool
 ```bash
 
-node getGuessInfo.js txhash
+node getGuessInfo.js [the txhash of guess]
 ```
-#### output:
+### output:
 
 ```bash
 {"status":"success", "match_id":"764397","gusser":"0xaddress of guesser","result":"1","value":"100"}
