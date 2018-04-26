@@ -7,7 +7,7 @@ A decentralized quiz platform.
 - node
 - npm
 
-## INSTALL:
+## Insatll:
 ### install tools
 ```bash
 
@@ -31,7 +31,7 @@ directory layout:
   | - getGuessInfo.js  //tools for get detail inforamtion of guess
   | - package.json  
 ```
-## HOW
+## How
 ### How to use the tool
 ```bash
 
