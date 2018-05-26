@@ -7,7 +7,7 @@ A decentralized quiz platform.
 - node
 - npm
 
-## Insatll:
+## Install:
 ### install tools
 ```bash
 
