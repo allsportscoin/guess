@@ -1,0 +1,9 @@
+{
+  "name": "socguess",
+  "description": "",
+  "require": {
+  },
+  "repositories": [
+  ],
+  "minimum-stability": "dev"
+}
