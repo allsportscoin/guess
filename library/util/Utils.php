@@ -30,7 +30,7 @@ class  Utils {
     }
 
     /**
-     * 加密函數
+     * encrypt your key
      */
     public static function encrypt($str)
     {
@@ -38,7 +38,7 @@ class  Utils {
     }
 
     /**
-    * 解密函數
+    * decrypt your key
     */
     public static function decrypt($str)
     {

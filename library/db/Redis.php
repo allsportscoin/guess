@@ -121,7 +121,6 @@ class Redis {
     }
     
     /**
-     * 建立redis链接
      * 
      * @param  string  $alias  [description]
      * @param  integer $master [description]

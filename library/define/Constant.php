@@ -10,5 +10,5 @@ class Constant {
     const APPEND_DECIMALS='00000000';
     const APPEND_DECIMALS_18 = "000000000000000000";
 
-    const MATCH_COUNT = 'soc_bet:match_counts:';
+    const MATCH_COUNT = 'soc_guess:match_counts:';
 }
